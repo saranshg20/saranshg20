@@ -2,8 +2,6 @@
 <h3 align="center">I'm final year undergraduate student from IIT Kanpur,
   with keen interest in Backend Development and DevOps. Open to new learnings and explorations.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saranshg20&label=Profile%20views&color=0e75b6&style=flat" alt="saranshg20" /> </p>
-
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **MERN, Flask**
