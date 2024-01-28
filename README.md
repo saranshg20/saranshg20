@@ -10,6 +10,8 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1Rlkrdn7GtXIez4Wy88NabLyEdfc4g6-Q?usp=sharing)
 
+- 📄 [Portfolio](https://portfolio-psi-opal-79.vercel.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saransh-shivhare-4b02ba200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saransh-shivhare-4b02ba200/" height="30" width="40" /></a>
