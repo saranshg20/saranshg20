@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1Rlkrdn7GtXIez4Wy88NabLyEdfc4g6-Q?usp=sharing)
 
-- 📄 [Portfolio](https://portfolio-psi-opal-79.vercel.app/)
+- 📄 [Portfolio](https://sshivhare.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
