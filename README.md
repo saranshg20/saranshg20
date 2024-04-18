@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saransh Shivhare</h1>
-<h3 align="center">I'm final year undergraduate student from IIT Kanpur,
-  with keen interest in Backend Development and DevOps. Open to new learnings and explorations.</h3>
+<h3 align="center">I'm final year undergraduate student from EE, IIT Kanpur,
+  with keen interest in Software Development. Open to new learnings and explorations.</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently exploring opportunities in Software Domain.
 
-- 💬 Ask me about **MERN, Flask**
+- 💬 Ask me about **MERN, Flask, Next**
 
 - 📫 How to reach me **sshivhare488@gmail.com**
 
