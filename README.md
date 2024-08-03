@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saransh Shivhare</h1>
-<h3 align="center">I'm final year undergraduate student from EE, IIT Kanpur,
-  with keen interest in Software Development. Open to new learnings and explorations.</h3>
+<h3 align="center">I'm a Software Engineer at <a href="https://www.mozark.ai/" target="_blank">Mozark</a>. Recently completed my Bachelors in Electrical Engineering from IIT Kanpur.
+  I've keen interest in Software Development and am open to new learnings and explorations.</h3>
 
 - 🌱 I’m currently exploring opportunities in Software Domain.
 
